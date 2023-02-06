@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://calebcarnett.github.io/Portfolio/](https://calebcarnett.github.io/Portfolio/)
+- 👨‍💻 All of my pinned projects are available at [my Website](https://calebcarnett.github.io/Portfolio/)
 
 - 📫 How to reach me **carnett.caleb@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rzY9Lma3sXGCrW33OFdrjzy0HCEb9OMfC_6GLX6VClA/edit?usp=sharing](https://docs.google.com/document/d/1rzY9Lma3sXGCrW33OFdrjzy0HCEb9OMfC_6GLX6VClA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rzY9Lma3sXGCrW33OFdrjzy0HCEb9OMfC_6GLX6VClA/edit?usp=sharing)
 
 - ⚡ Fun fact **I play pickleball and chess**
 
