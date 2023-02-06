@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caleb Carnett</h1>
+<h1 align="center">Hi 👋, I'm Caleb</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=calebcarnett&label=Profile%20views&color=0e75b6&style=flat" alt="calebcarnett" /> </p>
 
 - 🌱 I’m currently learning **React**
