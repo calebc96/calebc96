@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **carnett.caleb@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/17B3GRW6eOF6MD6aD8K46FgmKT9AC8ALv/edit?usp=sharing&ouid=104753921385804100147&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1jeXiIH8Ip9GpIx7JTOPKqRSWdU8RM_hKsZKmZSQ5foE/edit?usp=sharing)
 
 - ⚡ Fun fact **I play pickleball and chess**
 
