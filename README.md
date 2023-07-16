@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=calebcarnett&label=Profile%20views&color=0e75b6&style=flat" alt="calebcarnett" /> </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **react hooks**
 
 - 👨‍💻 All of my pinned projects are available at [my Website](https://calebcarnett.com/)
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1jeXiIH8Ip9GpIx7JTOPKqRSWdU8RM_hKsZKmZSQ5foE/edit?usp=sharing)
 
-- ⚡ Fun fact **I play pickleball and chess**
+- ⚡ Fun fact **I play a lot of pickleball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
