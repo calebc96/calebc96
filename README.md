@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=calebcarnett&label=Profile%20views&color=0e75b6&style=flat" alt="calebcarnett" /> </p>
 
-- 🌱 I’m currently learning **react hooks**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my pinned projects are available at [my Website](https://calebcarnett.com/)
 
