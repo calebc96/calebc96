@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my pinned projects are available at [my Website](https://calebcarnett.com/)
-
 - 📫 How to reach me **carnett.caleb@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1jeXiIH8Ip9GpIx7JTOPKqRSWdU8RM_hKsZKmZSQ5foE/edit?usp=sharing)
-
-- ⚡ Fun fact **I play pickleball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
