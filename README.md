@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **carnett.caleb@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1jeXiIH8Ip9GpIx7JTOPKqRSWdU8RM_hKsZKmZSQ5foE/edit?usp=sharing)
+- 📄 See my previous work experience [Resume](https://docs.google.com/document/d/1jeXiIH8Ip9GpIx7JTOPKqRSWdU8RM_hKsZKmZSQ5foE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
